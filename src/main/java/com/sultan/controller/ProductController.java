@@ -30,4 +30,5 @@ public class ProductController {
     	  List<Product> products = Arrays.asList(p1,p2,p3,p4);
     	  return new ResponseEntity<>(products,HttpStatus.OK);
       }
+System.out.println("Hello");
 }
