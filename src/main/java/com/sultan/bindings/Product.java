@@ -13,5 +13,6 @@ public class Product {
      private Integer Id;
      private String name;
      private Double price;
+private Integer id;
      
 }
